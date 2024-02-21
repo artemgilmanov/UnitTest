@@ -34,7 +34,7 @@ namespace TestNinja.UnitTests
     }
 
     [Test]
-    public void Log_ValidError_RaiseErorLoggedEvent()
+    public void Log_ValidError_RaiseErrorLoggedEvent()
     {
       var logger = new ErrorLogger();
 
