@@ -62,6 +62,7 @@
     <Compile Include="Fundamentals\FizzBuzz.cs" />
     <Compile Include="Fundamentals\HtmlFormatter.cs" />
     <Compile Include="Fundamentals\Math.cs" />
+    <Compile Include="Fundamentals\Names.cs" />
     <Compile Include="Fundamentals\PhoneNumber.cs" />
     <Compile Include="Fundamentals\Reservation.cs" />
     <Compile Include="Fundamentals\Stack.cs" />
